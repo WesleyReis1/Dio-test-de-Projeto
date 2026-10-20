@@ -1,2 +1,4 @@
-# Dio-test-de-Projeto
-Desafio de projeto curso de git da Dio
+# Desafio de Projeto git/github
+Repositório com comandos git
+## links úteis 
+[Comandos do git](https://comandosgit.github.io/)
