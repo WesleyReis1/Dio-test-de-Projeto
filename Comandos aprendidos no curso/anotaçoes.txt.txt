@@ -1,0 +1,7 @@
+git cd = comando utlizidado para navegar entre diretórios no git bash ou terminal do sistema operacional.
+
+git status = exibe o estado atual do repositório local, mostrando arquivos modificados, preparados para commit e não rastreados.
+
+git commit -m = usado para salvar alterações no repositório local, permitindo que você registre o progresso do projeto com uma mensagem descritiva.
+
+git clone = cria uma cópia completa de um repositório existente em um novo diretório na sua máquina local, incluindo todos os arquivos, histórico de commits e branches.
